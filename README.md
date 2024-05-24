@@ -8,7 +8,8 @@
 
 # Discord: guf1ck
 
-# Karma Developments Discord: https://discord.gg/ErC9mfYakh
+# Karma Developments Discord: 
+## https://discord.gg/ErC9mfYakh
 
 ## Dependencies
 
