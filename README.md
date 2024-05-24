@@ -6,9 +6,14 @@
 - For to use MDT : Command: /mdt
 - Please check the web/ui.html to make the translation to your language
 
+# Discord: guf1ck
+
+# Karma Developments Discord: https://discord.gg/ErC9mfYakh
+
 ## Dependencies
 
 - [QBCore](https://github.com/qbcore-framework/qb-core)
+- [PS-MDT](https://github.com/Project-Sloth/ps-mdt)
 - [oxmysql](https://github.com/overextended/oxmysql)
 - [qb-apartments](https://github.com/qbcore-framework/qb-apartments) - If you want to disable just go into our shared/config.lua
 - [qb-communityservice](https://github.com/Zepherlah/qb-community-service) - If you're planning on sending to community service. 
@@ -30,7 +35,3 @@
 ```sql
 ALTER TABLE players CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci
 ```
-
-# Discord: guf1ck
-
-# Karma Developments Discord: https://discord.gg/ErC9mfYakh
